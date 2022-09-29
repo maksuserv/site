@@ -8,3 +8,7 @@ document.querySelector("#download-btn").onclick = function(){
 		alert("Пожалуйста, введите правильный email!");
 	}
 }
+
+document.querySelector("#features-btn").onclick = function() {
+	window.scrollTo(0, 750)
+}
