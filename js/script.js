@@ -12,3 +12,4 @@ document.querySelector("#download-btn").onclick = function(){
 document.querySelector("#features-btn").onclick = function() {
 	window.scrollTo(0, 750)
 }
+
